@@ -9,5 +9,6 @@ try
     echo "Terjadi error..";
     echo $e->getMessage();
 }
+error_reporting(0);
 
 ?>
