@@ -1,3 +1,4 @@
+<script type="text/javascript">window.print();</script>
 <?php include("../include/koneksi.php"); ?>
 
 		<table cellpadding="5" border="1" style="border-collapse:collapse; width:95%;">
